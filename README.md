@@ -5,3 +5,4 @@
 # [Lab-04](https://colab.research.google.com/drive/1MXQS9E9S2TDebL-mygus6UA3lp-xX0Ck)_ implement linear regression using boston housing data
 # [Lab-05](https://colab.research.google.com/drive/1Izq1zrd7EXhhwOq41WGuPecwMgmIUppU#scrollTo=86PX_6sjTRXK)-Implement Logistic Regression using Titanic Ship Data
 # [LAB-06](https://colab.research.google.com/drive/19pd9GksnlTLl87PgRU6BdvHPCKvPDt7t#scrollTo=B0qHD4t6GHzh)-Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+# [LAB-07](https://colab.research.google.com/drive/1LrpaQxWMrdDvAw9vAOvisrs4yt-NB0y-#scrollTo=ZfGfCU2MH9vj)-Implement Support Vector Machine using Breast Cancer Data
