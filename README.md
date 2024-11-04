@@ -8,3 +8,4 @@
 # [LAB-07](https://colab.research.google.com/drive/1LrpaQxWMrdDvAw9vAOvisrs4yt-NB0y-#scrollTo=ZfGfCU2MH9vj)-Implement Support Vector Machine using Breast Cancer Data
 # [LAB-08](https://colab.research.google.com/drive/1cVJjYsIIlSzz2bzgxLc73cJoUhfSZodW#scrollTo=IRKEi1kKhWnP)-Implement Decision Tree Classifier using Lending Club Data
 # [LAB-09](https://colab.research.google.com/drive/1F6khzXal1jyWXKQmbkWvctIlYWTVDWlY#scrollTo=hhv87IzrTylb)-Implement Random Forest Ensemble Classifier using Lending Club Data
+# [LAB-10](https://colab.research.google.com/drive/13SgAm6jGnoceATkZKErFN4YLIMKopxNz#scrollTo=aHizzFsLWtRy)-Implement K-Means Clustering using Household Electricity Consumption Dataset
